@@ -1,4 +1,4 @@
-Mehdi	Time			Temp	SetPoint						
+Mehdi2	Time			Temp	SetPoint						
 PID_out	366	0	0	400	400	100	10	100			(Ki=0,05,Kd=0,02,Kp=1,5)
 PID_out	367	0,1	0	400	400	100	10	100			
 PID_out	368	0,2	0	400	400	100	10	100			
